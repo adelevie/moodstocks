@@ -1,4 +1,4 @@
-require "moodstocks/client"
+require "client"
 
 module Moodstocks
 end
