@@ -1,5 +1,7 @@
+require "json"
+require "open3"
 require "moodstocks/client"
-require "moodstocks/httparty"
+
 
 module Moodstocks
 end
